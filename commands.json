@@ -1,0 +1,34 @@
+[
+  {
+    "name": "admin",
+    "file": "src/commands/admin.js"
+  },
+  {
+    "name": "alerts",
+    "file": "src/commands/alerts.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "reset",
+    "file": "src/commands/reset.js"
+  },
+  {
+    "name": "scan",
+    "file": "src/commands/scan.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "token",
+    "file": "src/commands/token.js"
+  },
+  {
+    "name": "watchlist",
+    "file": "src/commands/watchlist.js"
+  }
+]
